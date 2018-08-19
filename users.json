@@ -1,12 +1,12 @@
  {
-    users:{
-      1:{
-        username: "Lucas",
-        password:"Lucas123"
+    "users":{
+      "1":{
+        "username": "Lucas",
+        "password":"Lucas123"
       },
-        2:{
-        username:'Mary',
-        password:"Mary123"
+        "2":{
+        "username":'Mary',
+        "password":"Mary123"
       }
     }
     
